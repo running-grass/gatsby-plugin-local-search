@@ -38,7 +38,7 @@
     "flexsearch"
   ],
   "dependencies": {
-    "flexsearch": "^0.6.32",
+    "flexsearch": "^0.7.32",
     "lodash": "^4.17.19",
     "lunr": "^2.3.8",
     "pascal-case": "^3.1.1"
